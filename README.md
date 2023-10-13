@@ -52,4 +52,4 @@ To run the program, use the following command format:
 ## Resources
 
 [Vizualizer](https://nafuka11.github.io/philosophers-visualizer/)
-[Videos explaining multithreading](https://www.youtube.com/results?search_query=codevault)
+<br>[Videos explaining multithreading](https://www.youtube.com/results?search_query=codevault)
